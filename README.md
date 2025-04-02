@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kaustubh  
 
-<!--
-**kaustubhuk8/kaustubhuk8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | Tech Enthusiast | Open Source Contributor**  
 
-Here are some ideas to get you started:
+🔹 Passionate about leveraging **React, JavaScript, Django, and PostgreSQL** to build innovative solutions.  
+🔹 Exploring **crypto, Web3, and blockchain technologies**, currently working on a **Polkadot SDK-based wallet**.  
+🔹 Interested in **reshaping healthcare tech** to prioritize patient well-being over profit.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Check out my portfolio:** [kaustubhuk8.github.io](https://kaustubhuk8.github.io)  
+
+## 🛠 Tech Stack  
+
+- **Frontend:** React, TypeScript, Remix, Tailwind CSS  
+- **Backend:** Django, PostgreSQL, REST APIs  
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker  
+- **Blockchain/Web3:** Polkadot SDK (Beginner)  
+
+## 🚀 Featured Projects  
+
+- 🔹 **[Prevale](https://github.com/kaustubhuk8/)** – Accounting & compliance tech platform  
+- 🔹 **[Life Mein Marks](https://github.com/kaustubhuk8/)** – Mental health & education platform  
+- 🔹 **[Polkadot Wallet (WIP)](https://github.com/kaustubhuk8/)** – Crypto wallet built using Polkadot SDK  
+
+## 📫 Connect with Me  
+
+🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
+🐦 [Twitter](https://twitter.com/your-handle)  
+💌 [Email](mailto:your.email@example.com)  
