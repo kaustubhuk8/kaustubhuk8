@@ -18,8 +18,7 @@
 ## 🚀 Featured Projects  
 
 - 🔹 **[Prevale](https://github.com/kaustubhuk8/)** – Accounting & compliance tech platform  
-- 🔹 **[Life Mein Marks](https://github.com/kaustubhuk8/)** – Mental health & education platform  
-- 🔹 **[Polkadot Wallet (WIP)](https://github.com/kaustubhuk8/)** – Crypto wallet built using Polkadot SDK  
+- 🔹 **[Life Mein Marks](https://github.com/kaustubhuk8/)** – Mental health & education platform 
 
 ## 📫 Connect with Me  
 
