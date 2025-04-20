@@ -22,6 +22,5 @@
 
 ## 📫 Connect with Me  
 
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🐦 [Twitter](https://twitter.com/your-handle)  
-💌 [Email](mailto:your.email@example.com)  
+🔗 [LinkedIn](https://linkedin.com/in/kaustubh-u-kulkarni) 
+💌 [Email](mailto:kukulkar@asu.edu)  
