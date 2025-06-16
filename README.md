@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Kaustubh  
 
-🚀 **Software Engineer | Tech Enthusiast | Open Source Contributor**  
+🚀 **Software Engineer | Tech Enthusiast**  
 
 - 🧠 I love building systems that learn, adapt, and scale.
 - 🌍 Currently exploring the intersection of **AI + Web**, **privacy-first data sharing**, and **decentralized identity**.  
