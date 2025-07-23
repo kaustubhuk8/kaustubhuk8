@@ -14,8 +14,8 @@
 ## 🛠 Tech Stack  
 
 - **Frontend:** React, TypeScript, Remix, Tailwind CSS  
-- **Backend:** Django, FastAPI, PostgreSQL, REST APIs  
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker  
+- **Backend:** Go, Django, FastAPI, PostgreSQL, REST APIs  
+- **Cloud & DevOps:** Kubernetes, (EC2, S3, Lambda), Docker  
 - **Blockchain/Web3:** Polkadot SDK (Beginner)  
 
 ---
