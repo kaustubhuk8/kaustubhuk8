@@ -7,7 +7,7 @@
 - 🧬 Passionate about leveraging tech to improve **healthcare access, data ownership, and digital rights** in real-world systems.  
 - 🎓 Always learning — lately it's been **video diffusion**, **prompt engineering**, and **serverless inference pipelines**.  
 
-🌐 **Check out my portfolio:** [kaustubhuk8.github.io](https://kaustubhuk8.github.io)  
+🌐 **Check out my portfolio:** [kaustubh.fyi](https://kaustubh.fyi)  
 
 ---
 
